@@ -1,2 +1,2 @@
-# Tensorflow_projects
+# Tensorflow Projects
 Repository consists of Tensorflow based experiments. 
